@@ -11,4 +11,8 @@ word.
 
 ## Requirements
  1. Do not use any existing computer applications as a resource.
- 1. Provide a web-based and server-side user interface.
+ 1. Provide a browser and command line user interface.
+
+
+- - -
+**Note**: this will be a slow work-in-progess. I am drawing inspiration from [here](http://technify.me/problems/ewe-no-what-eye-mean/).
