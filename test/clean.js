@@ -71,7 +71,7 @@ suite( 'clean', function () {
       var challenge = '    put it     all   2gether '
         , check = clean.run( challenge );
 
-      assert.deepEqual( clean.target, [ 'put', 'it', 'all', '2gether' ] );
+      assert.deepEqual( check, [ 'put', 'it', 'all', '2gether' ] );
       assert.equal( clean.original, challenge );
     });
   });

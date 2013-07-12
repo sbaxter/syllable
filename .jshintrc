@@ -27,4 +27,9 @@
   , "loopfunc"  : false
   , "shadow"    : false
   , "asi"       : false
+
+  , "predef"    : [
+    "test"
+    , "suite"
+  ]
 }
