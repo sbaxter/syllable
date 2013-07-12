@@ -1,0 +1,12 @@
+{
+  "name": "Syllable",
+  "version": "0.0.0",
+  "description": "A syllable counter.",
+  "author": "Seth Baxter <me@sethbaxter.com>",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sbaxter/syllable.git"
+  },
+}
